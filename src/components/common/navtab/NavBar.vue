@@ -22,10 +22,10 @@
 		height: 44px;
 		line-height: 44px;
 		text-align: center;
-		border: 1px;
 		box-shadow: 0px 3px 3px rgba(100,100,100,.2);
-		/*background-color: var(--color_tint);
-		color: #fff*/
+		position: fixed;
+		z-index: 9;
+		width: 100%
 	}
 	.navBar-left,.navBar-right{
 		width:60px;
