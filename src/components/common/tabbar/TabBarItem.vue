@@ -32,6 +32,7 @@
 			tabBarClick(){
 				// console.log(this.$route.path)
 				// console.log(this.path)
+				// console.log(this.$router)
 				this.$router.push(this.path).catch(err =>{
 					// console.log('good')
 				})

@@ -23,7 +23,6 @@
 		},
 		methods:{
 			tabControlActive:function(index){
-				// console.log(index)
 				this.currentIndex = index
 				this.$emit('tabClick',index)
 			}

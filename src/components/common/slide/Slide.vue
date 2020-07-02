@@ -211,7 +211,7 @@
 <style scoped>
   #hy-swiper {
     overflow: hidden;
-    position: relative;
+    position: relative
   }
 
   .swiper {

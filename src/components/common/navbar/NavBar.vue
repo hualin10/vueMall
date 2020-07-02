@@ -24,6 +24,9 @@
 		text-align: center;
 		box-shadow: 0px 3px 3px rgba(100,100,100,.2);
 		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
 		z-index: 9;
 		width: 100%
 	}
