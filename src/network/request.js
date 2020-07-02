@@ -6,7 +6,7 @@ export function request(config){
   const instance = axios.create({
   	// baseURL:'http://localhost:8080',
     //根地址 
-    baseURL:'http://106.54.54.237:8000/api/mn',
+    baseURL:'http://106.54.54.23:8000/api/mn',
     //延迟时间
   	timeout:5000
   })
